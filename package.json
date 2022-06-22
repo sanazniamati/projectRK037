@@ -1,8 +1,12 @@
 {
-  "name": "projectrk030",
+  "name": "projectrk037",
   "version": "0.1.0",
   "private": true,
-  "description": "How to draw fill part on top of the stroke",
+  "keywords": [
+    "react","react-konva",
+    "Text","events"
+  ],
+  "description": "to restrict the movement of shapes being dragged and dropped with React-Konva",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

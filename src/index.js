@@ -12,17 +12,19 @@ const App = () => {
           y={70}
           fontSize={24}
           fill={"black"}
+          fontFamily={"Calibri"}
           padding={15}
+          draggable
         />
         <Text
-          text={"Reversed rendering order.\nfillAfterStrokeEnabled = true"}
-          x={50}
-          y={150}
-          fontSize={30}
-          stroke={"green"}
-          fill={"yellow"}
-          strokeWidth={3}
-          fillAfterStrokeEnabled
+          text={"vertical"}
+          x={150}
+          y={70}
+          fontSize={24}
+          fill={"black"}
+          fontFamily={"Calibri"}
+          padding={15}
+          draggable
         />
       </Layer>
     </Stage>

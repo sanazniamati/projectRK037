@@ -9,5 +9,6 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 ![Demo](./img.png)
 
-**How to draw fill part on top of the stroke ?**
-**Instructions: Take a look into two examples of different fill&stroke order.**
+**How to restrict the movement of shapes being dragged and dropped with React-Konva ?**
+
+[Documentation](https://konvajs.org/docs/drag_and_drop/Simple_Drag_Bounds.html)
